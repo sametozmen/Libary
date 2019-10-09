@@ -1,0 +1,63 @@
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Anaform.resources
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Kayıt_Ekle.resources
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.satıs.resources
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Varolan_Kayıtlar.resources
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\ogrenci\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Anaform.resources
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Kayıt_Ekle.resources
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.satıs.resources
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Varolan_Kayıtlar.resources
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ogrenci\Desktop\ktpn2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Anaform.resources
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Kayıt_Ekle.resources
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.satıs.resources
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Varolan_Kayıtlar.resources
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\halil\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.SatılanÜrünler.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Anaform.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Kayıt_Ekle.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.SatılanÜrünler.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.satıs.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Varolan_Kayıtlar.resources
+D:\yusuf oyun\yusuf  balon oyunu\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Anaform.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Kayıt_Ekle.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.SatılanÜrünler.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.satıs.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Varolan_Kayıtlar.resources
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\YY\Downloads\Kütüphane Programı\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
